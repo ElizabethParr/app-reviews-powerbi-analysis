@@ -1,8 +1,8 @@
 # 📊 App Reviews & Developer Engagement Analysis (Power BI)
 
-![Dashboard Overview](1_app_landscape.jpg)
-![Review Analysis](2_reviews.jpg)
-![App Insights](3_app_reviews.jpg)
+![Dashboard Overview](app_landscape.jpg)
+![Review Analysis](reviews.jpg)
+![App Insights](app_reviews.jpg)
 
 ## 🔍 Project Overview
 This project explores how user reviews and developer engagement impact app performance. Using Power BI, I built a multi-page report to analyze rating accumulation, review quality, response behavior, and rating stability.
